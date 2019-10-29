@@ -1,7 +1,7 @@
 ---
 title: "極上の酒場リスト"
 date: 2018-09-29T11:36:33+08:00
-draft: True
+draft: false
 featuredImg: ""
 tags:
   - Map
